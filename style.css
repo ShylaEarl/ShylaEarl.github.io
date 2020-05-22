@@ -11,8 +11,15 @@
 }
 
 .personal info {
+  font-family: 'Arial', Helvetica;
+}
+
+h1 {
   font-size: 60px;
-  margin-bottom: -15px;
+}
+
+h2 {
+  font-size: 45px; 
 }
 
 .main {
