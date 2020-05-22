@@ -17,7 +17,7 @@
 h1 {
   font-size: 42px;
   font-family: 'Cursive', Lucida Handwriting;
-  color: Violet; 
+  color: LightPurple; 
   margin-bottom: -20px;
 }
 
@@ -29,14 +29,15 @@ h2 {
 .main { 
 }
 h3 {
-  font-size: 15px;
+  font-size: 20px;
   font-family: 'Lucida Handwriting', Cursive;
-  margin-top: 5px;
+  margin-top: -25px;
   margin-bottom: -15px;
 }
   
 h4 {
-  font-size: 15px:
+  font-size: 15px;
+  margin-top: -15px;
   margin-bottom: -15px;
 }
 
