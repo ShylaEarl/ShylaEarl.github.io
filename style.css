@@ -12,19 +12,21 @@
   text-align: left;
 }
 
-.personal info {
+#personal info {
 }
-
 h1 {
   font-size: 42px;
   font-family: 'Cursive', Lucida Handwriting; 
   color: black;
   margin-bottom: -20px;
 }
-
 h2 {
   font-size: 20px; 
   margin-bottom: -20px;
+}
+h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
 }
   
 .main { 
