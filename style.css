@@ -27,12 +27,22 @@ h2 {
   margin-bottom: -6px;
 }
   
-.main {
-  
+.main { 
 }
-
+h3 {
+  font-size: 15px;
+  font-family: 'Cursive', Lucida Handwriting;
+  margin-top: -5px;
+  margin-bottom: -15px;
+}
+  
+h4 {
+  font-size: 15px:
+  font-family: 'Georgia', Arial;
+  margin-bottom:
+}
 
 p {
   font-family: 'Arial', Helvetica;
-  color: black;
+  color: grey;
 }
