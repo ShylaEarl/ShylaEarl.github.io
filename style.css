@@ -11,7 +11,14 @@
 }
 
 #personal info {
-  font-size: 40px;
+  
+  H1 
+  font-size: 60px;
+  margin-bottom: -15px;
+  
+  H2
+  font-size: 45px;
+  margin-bottom: -10px;
 }
 
 #main {
