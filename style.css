@@ -17,11 +17,13 @@
 h1 {
   font-size: 42px;
   font-family: 'Arial', Helvetica;
+  margin-bottom: -20px;
 }
 
 h2 {
   font-size: 28px; 
   font-family: 'Arial', Helvetica;
+  margin-bottom: -20px;
 }
 
 .main {
