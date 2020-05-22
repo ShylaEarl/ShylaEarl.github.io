@@ -23,7 +23,7 @@ h1 {
 
 h2 {
   font-size: 20px; 
-  margin-bottom: -6px;
+  margin-bottom: 0px;
 }
   
 .main { 
@@ -32,13 +32,13 @@ h3 {
   font-size: 20px;
   font-family: 'Lucida Handwriting', Cursive;
   margin-top: 5px;
-  margin-bottom: -5px;
+  margin-bottom: 5px;
 }
   
 h4 {
   font-size: 15px;
-  margin-top: -5px;
-  margin-bottom: -5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 p {
