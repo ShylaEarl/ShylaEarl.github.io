@@ -10,18 +10,16 @@
   text-align: left;
 }
 
-#personal info {
-  
+.personal info {
   H1 
   font-size: 60px;
   margin-bottom: -15px;
-  
   H2
   font-size: 45px;
   margin-bottom: -10px;
 }
 
-#main {
+.main {
   
 }
 
