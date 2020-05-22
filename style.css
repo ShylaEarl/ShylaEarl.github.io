@@ -1,9 +1,10 @@
 #container {
   margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 20px;
   
-  padding: 10px 150px 10px 150px
+  padding: 10px 150px 10px 150px;
     
   border-radius: 15px;
   background-color: AntiqueWhite;
@@ -15,14 +16,14 @@
 }
 h1 {
   font-size: 42px;
-  font-family: 'Cursive', Lucida Handwriting;
-  color: DeepSkyBlue; 
+  font-family: 'Lucida Handwriting', Cursive;
+  color: Purple; 
   margin-bottom: -20px;
 }
 
 h2 {
   font-size: 20px; 
-  font-family: 'Roboto', Arial;
+  font-family: 'Georgia', Arial;
   margin-bottom: -6px;
 }
   
