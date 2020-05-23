@@ -19,15 +19,18 @@ h1 {
   font-family: 'Cursive', Lucida Handwriting; 
   color: black;
   margin-bottom: -20px;
+  text-align: center;
 }
 h2 {
   font-size: 20px; 
   margin-bottom: -20px;
+  text-align: center;
 }
 #linkedin {
   font-size: 20px;
   color: black;
   margin-bottom: 20px;
+  text-align: center;
 }
   
 .main { 
