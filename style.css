@@ -40,19 +40,19 @@ h3 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
-  
+ul {
+  font-family: 'Arial', Helvetica;
+}
 h4 {
   font-size: 20px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-
 h5 {
   font-size: 17px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-
 p {
   font-family: 'Arial', Helvetica;
 }
